@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kangoroo/static/css/main.d5e309b1.css",
-    "main.js": "/kangoroo/static/js/main.57a4db5e.js",
+    "main.css": "/kangoroo/static/css/main.7cc8d44d.css",
+    "main.js": "/kangoroo/static/js/main.fd5a7970.js",
     "static/media/banner.png": "/kangoroo/static/media/banner.d5848fb1bb5ac39e7614.png",
     "static/media/art.svg": "/kangoroo/static/media/art.8407c7bbe28d2f3a16161028f18c82dc.svg",
     "static/media/opendoors.svg": "/kangoroo/static/media/opendoors.bf04787474f218b1acbb1c465dcde75a.svg",
@@ -10,11 +10,11 @@
     "static/media/food.svg": "/kangoroo/static/media/food.b1903a1e98e8dd5690b0fb7410ee49ba.svg",
     "static/media/route.svg": "/kangoroo/static/media/route.d2495535946d8234db8f92a6aac685ca.svg",
     "index.html": "/kangoroo/index.html",
-    "main.d5e309b1.css.map": "/kangoroo/static/css/main.d5e309b1.css.map",
-    "main.57a4db5e.js.map": "/kangoroo/static/js/main.57a4db5e.js.map"
+    "main.7cc8d44d.css.map": "/kangoroo/static/css/main.7cc8d44d.css.map",
+    "main.fd5a7970.js.map": "/kangoroo/static/js/main.fd5a7970.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5e309b1.css",
-    "static/js/main.57a4db5e.js"
+    "static/css/main.7cc8d44d.css",
+    "static/js/main.fd5a7970.js"
   ]
 }
